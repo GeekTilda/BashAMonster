@@ -1,0 +1,15 @@
+C:\Programmering2\BashAMonster\BashAMonster\bin\Debug\net6.0\BashAMonster.exe
+C:\Programmering2\BashAMonster\BashAMonster\bin\Debug\net6.0\BashAMonster.deps.json
+C:\Programmering2\BashAMonster\BashAMonster\bin\Debug\net6.0\BashAMonster.runtimeconfig.json
+C:\Programmering2\BashAMonster\BashAMonster\bin\Debug\net6.0\BashAMonster.dll
+C:\Programmering2\BashAMonster\BashAMonster\bin\Debug\net6.0\BashAMonster.pdb
+C:\Programmering2\BashAMonster\BashAMonster\obj\Debug\net6.0\BashAMonster.csproj.AssemblyReference.cache
+C:\Programmering2\BashAMonster\BashAMonster\obj\Debug\net6.0\BashAMonster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmering2\BashAMonster\BashAMonster\obj\Debug\net6.0\BashAMonster.AssemblyInfoInputs.cache
+C:\Programmering2\BashAMonster\BashAMonster\obj\Debug\net6.0\BashAMonster.AssemblyInfo.cs
+C:\Programmering2\BashAMonster\BashAMonster\obj\Debug\net6.0\BashAMonster.csproj.CoreCompileInputs.cache
+C:\Programmering2\BashAMonster\BashAMonster\obj\Debug\net6.0\BashAMonster.dll
+C:\Programmering2\BashAMonster\BashAMonster\obj\Debug\net6.0\refint\BashAMonster.dll
+C:\Programmering2\BashAMonster\BashAMonster\obj\Debug\net6.0\BashAMonster.pdb
+C:\Programmering2\BashAMonster\BashAMonster\obj\Debug\net6.0\BashAMonster.genruntimeconfig.cache
+C:\Programmering2\BashAMonster\BashAMonster\obj\Debug\net6.0\ref\BashAMonster.dll
